@@ -1,7 +1,11 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="150.000000pt" height="150.000000pt" viewBox="0 0 150.000000 150.000000" preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.10, written by Peter Selinger 2001-2011
-</metadata>
+<style>
+        @media (prefers-color-scheme: dark) {
+            path {
+                filter: invert(1);
+            }
+        }
+</style>
 <g transform="translate(0.000000,150.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
 <path d="M715 1483 c-44 -22 -114 -92 -136 -135 -24 -47 -81 -190 -77 -194 2 -1 35 7 73 18 93 27 255 28 340 4 33 -10 151 -56 263 -102 201 -84 222 -91 222 -76 0 4 -26 69 -58 145 l-57 139 -55 23 c-284 118 -472 195 -478 195 -4 -1 -20 -8 -37 -17z"/>
 <path d="M360 1343 c-74 -31 -138 -61 -142 -67 -4 -6 -34 -76 -67 -156 -33 -80 -80 -194 -105 -255 -26 -60 -46 -115 -46 -121 0 -19 74 -113 110 -139 34 -25 227 -111 234 -104 3 2 -4 36 -15 74 -24 84 -29 234 -10 315 8 30 53 153 102 272 49 120 89 222 89 228 0 15 -3 14 -150 -47z"/>

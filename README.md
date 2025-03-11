@@ -1,4 +1,4 @@
-# Noble / <img src="./assets/github.svg" width=35 height=35></img> NobleIsTaken / <img src="./assets/rblx.svg" width=35 height=35></img> UserNoble
+# Noble / <img src="./assets/github.svg" width=35 height=35></img> NobleIsTaken / <img src="./assets/rblx.svg" width=35 height=35></img> NobleHxn
 
 - Roblox Developer since 2019
 - Hobby JS programmer & tech enthusiast
